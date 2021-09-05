@@ -1,4 +1,4 @@
-<img src="https://github.com/AxelrodAdil/AxelrodAdil/blob/main/svg.svg"  width=700/>
+<img src="https://github.com/AxelrodAdil/AxelrodAdil/blob/main/svg.svg"  width=500/>
 
 
 ## About me :mortar_board:
