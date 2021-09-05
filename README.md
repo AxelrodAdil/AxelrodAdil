@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src="https://github.com/AxelrodAdil/AxelrodAdil/blob/main/svg.svg"  width=700/>
 
-<!--
-**AxelrodAdil/AxelrodAdil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me :mortar_board:
+<p><em>Studying Computer Science at <a href="https://en.wikipedia.org/wiki/Al-Farabi_Kazakh_National_University">KazNU</a>. 💻</br>
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Programming languages and technologies: 
+  - Java (OOP, Concurrency, Collection API), servlet-jsp, asp.Net, .net core
+  - Maven, JUnit, Git
+  - Microsoft SQL Server, MySQL (JDBC, ODBC), PostgreSQL, AWS s3
+
+## My Certifications
+- [Coursera and Stepik](https://github.com/AxelrodAdil/Certificates)
