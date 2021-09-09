@@ -2,7 +2,7 @@
 
 
 ## About me :mortar_board:
-<p><em>Studying Computer Science at <a href="https://en.wikipedia.org/wiki/Al-Farabi_Kazakh_National_University">KazNU</a>. 💻</br>
+<p><em>Studying Computer Science at <a href="https://en.wikipedia.org/wiki/Al-Farabi_Kazakh_National_University">KazNU</a>. GPA: 3.85/4 💻</br>
 </em></p>
 
 🛠 Programming languages and technologies: 
