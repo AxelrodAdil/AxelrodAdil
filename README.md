@@ -10,11 +10,11 @@
   - Maven, JUnit, Git
   - Microsoft SQL Server, MySQL (JDBC, ODBC), PostgreSQL, AWS s3
 
-Languages
-  -Kazakh — Native
-  -English — B2 — Upper Intermediate
-  -Russian — C1 — Advanced
-  -Turkish — A1 — Basic
+Languages:
+  - Kazakh — Native
+  - English — B2 — Upper Intermediate
+  - Russian — C1 — Advanced
+  - Turkish — A1 — Basic
 
 ## My Certifications
 - [Coursera and Stepik](https://github.com/AxelrodAdil/Certificates)
