@@ -3,7 +3,7 @@
 
 ## About me :mortar_board:
 <p><em>Studying Computer Science at <a href="https://en.wikipedia.org/wiki/Al-Farabi_Kazakh_National_University">KazNU</a>. GPA: 3.85/4 💻</br>
-  <img align="right" alt="kaznu" src="kaznu.jpg" height="180" />
+  <img align="right" alt="kaznu" src="kaznu2021.jpg" height="180" />
 </em></p>
 
 🛠 Programming languages and technologies: 
