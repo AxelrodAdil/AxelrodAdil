@@ -8,6 +8,7 @@
 
 🛠 Programming languages and technologies: 
   - Java (OOP, Concurrency, Collection API), servlet-jsp, Spring Data JPA, asp.Net, .net core
+  - Python (opencv-cv2)
   - Maven, JUnit, Git
   - Microsoft SQL Server, MySQL (JDBC, ODBC), PostgreSQL, AWS s3
 
