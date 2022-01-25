@@ -11,6 +11,7 @@
   - Python (opencv-cv2)
   - Maven, JUnit, Git
   - Microsoft SQL Server, MySQL (JDBC, ODBC), PostgreSQL, AWS s3
+  - WEKA
 
 🌏 Languages:
   - Kazakh — Native
