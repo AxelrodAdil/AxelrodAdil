@@ -7,8 +7,9 @@
 <img align="right" alt="kaznu" src="kaznu2021.jpg" height="180" />
 
 🛠 Programming languages and technologies: 
-  - Java (OOP, Concurrency (udp/tcp: "Client-server" project), Collection API), servlet-jsp, Spring Data JPA, asp.Net, .net core
+  - Java (OOP, Concurrency (udp/tcp: "Client-server" project), Collection API), Spring Data JPA, Spring Security, REST API, servlet-jsp
   - Python (opencv-cv2)
+  - asp.Net, .net core
   - Maven, JUnit, Git
   - Microsoft SQL Server, MySQL (JDBC, ODBC), PostgreSQL, AWS s3
   - WEKA
