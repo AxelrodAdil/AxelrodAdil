@@ -10,7 +10,7 @@
   - Java (OOP, Concurrency, Collection API), Spring Data JPA, Spring Security, flyway, redis, docker-compose, REST API, servlet-jsp
   - Python (opencv-cv2)
   - asp.Net, .net core
-  - Maven, JUnit, Git
+  - Maven, JUnit5, Git
   - Microsoft SQL Server, MySQL (JDBC, ODBC), PostgreSQL, AWS s3
   - WEKA
 
