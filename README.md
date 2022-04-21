@@ -10,9 +10,9 @@
   - Java (OOP, Concurrency, Collection API), Spring Data JPA, Spring Security, flyway, redis, docker-compose, REST API, servlet-jsp
   - Python (opencv-cv2)
   - asp.Net, .net core
-  - Maven, JUnit5, Git
+  - Maven, JUnit, Mockito, Git (github, gitlab)
   - Microsoft SQL Server, MySQL (JDBC, ODBC), PostgreSQL, AWS s3
-  - WEKA
+  - WEKA, mpi (mpj), linux
 
 🌏 Languages:
   - Kazakh — Native
