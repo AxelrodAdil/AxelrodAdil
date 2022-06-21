@@ -4,8 +4,9 @@
 ## About me :mortar_board:
 
 <p><em>Developing applications using Java programming language. Since my passion is to be an expert in my field, I always spend time to learn new things about programming.
-  Studying Computer Science at <a href="https://en.wikipedia.org/wiki/Al-Farabi_Kazakh_National_University">KazNU</a>. I studied in Greece on academic mobility for one semester (2021-2022). GPA: 3.8/4 💻</br>  
-  Completed an internship (it is an obligatory part of the educational process) at Jusan Bank JSC (1-month), LLP DigitAlem (1-month).
+  
+Studying Computer Science at <a href="https://en.wikipedia.org/wiki/Al-Farabi_Kazakh_National_University">KazNU</a>. I studied in Greece on academic mobility for one semester (2021-2022). GPA: 3.8/4 💻</br>  
+Completed an internship (it is an obligatory part of the educational process) at Jusan Bank JSC (1-month), LLP DigitAlem (1-month).
 There are certificates.
 </em></p>
 <img align="right" alt="kaznu" src="kaznu2021.jpg" height="180" />
