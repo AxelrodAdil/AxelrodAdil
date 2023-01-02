@@ -8,18 +8,5 @@ There are certificates.
 </em></p>
 <img align="right" alt="kaznu" src="kaznu2021.jpg" height="180" />
 
-🛠 Programming languages and technologies: 
-- Java (OOP, Concurrency, Collection API), Spring Data JPA, Spring Security, REST API, gRPC, servlet-jsp, flyway, mybatis, redis;
-- Python (opencv-cv2), Machine learning (ML), Jupyter-notebook;
-- Maven, JUnit, Mockito, Git (github, gitlab), docker-compose;
-- Microsoft SQL Server, MySQL (JDBC, ODBC), PostgreSQL, AWS s3 (.net);
-- WEKA, mpi (mpj), linux, jira;
-
-🌏 Languages:
-  - Kazakh — Native
-  - English — B2 — Upper Intermediate
-  - Russian — C1 — Advanced
-  - Turkish — A1 — Basic
-
 ## My Certifications
 - [Coursera and Stepik](https://github.com/AxelrodAdil/Certificates)
