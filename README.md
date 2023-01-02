@@ -1,6 +1,3 @@
-<img src="https://github.com/AxelrodAdil/AxelrodAdil/blob/main/svg.svg"  width=500/>
-
-
 ## About me :mortar_board:
 
 <p><em>Developing applications using Java programming language. Since my passion is to be an expert in my field, I always spend time to learn new things about programming.
